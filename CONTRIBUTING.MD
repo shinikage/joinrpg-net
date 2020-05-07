@@ -44,3 +44,5 @@ Code guidelines
 Some common code practices, used amongst this repository
 
 - If possible, avoid the usage of regular expressions
+- If possible, avoid the usage of C# extensions 
+- It is kindly advised to write commit messages, tasks, comments to PRs and all other essential information on English.
